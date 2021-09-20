@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Ricardo-Bertolotti and currently I’m a Junior Developer
+- 👀 I’m interested in Technology like hardware devices, software programs and programming languages
+- 🌱 I’m currently learning IT Management and improving my skills in software programs
+- 💞️ I’m looking to collaborate on Projetcs that can help me to improve my programming skills
+- 📫 You can find me on LinkedIn : https://www.linkedin.com/in/ricardo-bertolotti/ 
