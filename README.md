@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @Ricardo-Bertolotti and currently I’m a Junior Developer
-- 👀 I’m interested in Technology like hardware devices, software programs and programming languages
-- 🌱 I’m currently learning Software Engineering, IT Management and improving my skills in software programs
-- 💞️ I’m looking to collaborate on Projetcs that can help me to improve my programming skills
-- 📫 You can find me on LinkedIn : https://www.linkedin.com/in/ricardo-bertolotti/ 
-- :floppy_disk: Google Drive Files : https://drive.google.com/drive/folders/1Oa-ZjO2bEe_W4mVI2kDvpjltfShyFHeg
+<h1> HI THERE :v: :leaves: </h1>
+
+ &emsp;My name is **Ricardo Bertolotti**, I’m **20** years old and I live in **Brazil**.<br>
+ &emsp;I work as a **software / product engineering assistant** at [Grupo Multi](https://www.multilaserempresas.com.br/conteudo/institucional_quem_somos/2?gclid=Cj0KCQjw166aBhDEARIsAMEyZh4tdpTvwCODCTiQ1GUscKyCic4rFa0bK9NzQbQpLe-uHKFfqdIBSsQaAv99EALw_wcB).<br>
+ &emsp;Currently I’m studying **Software Engineering and IT Management**, but I’m always improving my skills in coding, development, electronic, networks and support.<br>
+ &emsp;I’m very interested in **technology** in general, like hardware devices, software programs, programming languages, IOT, AI and desktops / smartphones features.
+  
+  
+  
