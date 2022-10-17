@@ -36,7 +36,7 @@
  [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&link=https://code.visualstudio.com/)](https://code.visualstudio.com/)
  [![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black&link=https://notepad-plus-plus.org/)](https://notepad-plus-plus.org/) <hr>
 
-![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricardo-Bertolotti&show_icons=true&theme=highcontrast)
+[![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricardo-Bertolotti&show_icons=true&theme=highcontrast)](https://github.com/Ricardo-Bertolotti?tab=repositories)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-Bertolotti&hide=php&theme=highcontrast)](https://github.com/Ricardo-Bertolotti/github-readme-stats) <hr>
 
 ![Snake animation](https://github.com/Ricardo-Bertolotti/Ricardo-Bertolotti/blob/output/github-contribution-grid-snake.svg)
