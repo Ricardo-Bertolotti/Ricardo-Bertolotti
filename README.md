@@ -39,4 +39,4 @@
 ![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricardo-Bertolotti&show_icons=true&theme=highcontrast)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-Bertolotti&hide=php&theme=highcontrast)](https://github.com/Ricardo-Bertolotti/github-readme-stats) <hr>
 
-[!Snake animation](https://github.com/Ricardo-Bertolotti)
+![Snake animation](https://github.com/Ricardo-Bertolotti/Ricardo-Bertolotti/blob/output/github-contribution-grid-snake.svg)
