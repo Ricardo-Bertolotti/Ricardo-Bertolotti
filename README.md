@@ -40,5 +40,5 @@
 [![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricardo-Bertolotti&show_icons=true&theme=highcontrast)](https://github.com/Ricardo-Bertolotti?tab=repositories)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-Bertolotti&layout=compact&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats) <hr>
 
-![Snake animation](https://github.com/Ricardo-Bertolotti/Ricardo-Bertolotti/blob/output/github-contribution-grid-snake.svg) <hr>
+![Snake animation](https://github.com/Ricardo-Bertolotti/Ricardo-Bertolotti/blob/output/github-contribution-grid-snake-dark.svg) <hr>
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=Ricardo-Bertolotti&repo=Ricardo-Bertolotti&theme=react)](https://github.com/Ricardo-Bertolotti/Ricardo-Bertolotti)
