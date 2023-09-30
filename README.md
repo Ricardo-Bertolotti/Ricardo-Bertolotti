@@ -2,7 +2,7 @@
 
  &emsp; :small_blue_diamond: My name is **Ricardo Bertolotti**, I’m **21** years old and I live in **Brazil**. <br>
  &emsp; 	:briefcase: I work as a **software / product engineering assistant** at [Grupo Multi](https://www.multilaserempresas.com.br/conteudo/institucional_quem_somos/2?gclid=Cj0KCQjw166aBhDEARIsAMEyZh4tdpTvwCODCTiQ1GUscKyCic4rFa0bK9NzQbQpLe-uHKFfqdIBSsQaAv99EALw_wcB). <br>
- &emsp; :books: Currently I’m studying **Software Engineering and IT Management**, but I’m always improving my skills in coding, development, electronic, networks and support. <br>
+ &emsp; :books: I’m graduated in **IT Management** and currently I’m studying **Software Engineeringing**, but I’m always improving my skills in coding, development, electronic, networks and support. <br>
  &emsp; :computer: I’m very interested in **technology** in general, like hardware devices, software programs, programming languages, cyber security, IOT, AI and desktops / smartphones features. <br>
  &emsp; :cloud: This is my public [Google Drive Folder](https://drive.google.com/drive/folders/1Oa-ZjO2bEe_W4mVI2kDvpjltfShyFHeg), that contains some useful files. <hr>
  
